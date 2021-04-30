@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SYN_Lab07</string>
+    <string name="textView">Подписчики proffix4</string>
+    <string name="download">Загрузка данных</string>
+    <string name="find">Посмотреть</string>
+    <string-array name="followingID">
+        <item>razetka</item>
+        <item>111nikklim111</item>
+        <item>kreisone</item>
+        <item>SKingTop</item>
+        <item>Alzhanov2505</item>
+        </string-array>
+</resources>
